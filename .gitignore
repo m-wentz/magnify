@@ -1,0 +1,12 @@
+# Enviornments
+venv/
+installs/
+
+# Versions
+versions/
+
+# Screenshot Dir
+*screenshots/
+
+# Domains
+domains/
